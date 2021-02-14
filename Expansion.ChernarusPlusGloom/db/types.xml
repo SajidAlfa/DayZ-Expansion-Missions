@@ -3,7 +3,7 @@
     <type name="ACOGOptic">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
-        <restock>1800</restock>
+        <restock>4800</restock>
         <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -15,7 +15,7 @@
     <type name="AK101">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>1800</restock>
+        <restock>6800</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -23,7 +23,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="AK101_Black">
         <nominal>0</nominal>
@@ -48,10 +49,10 @@
         <category name="weapons"/>
     </type>
     <type name="AK74">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>1800</restock>
-        <min>5</min>
+        <restock>2900</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -60,7 +61,6 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="AK74_Black">
         <nominal>0</nominal>
